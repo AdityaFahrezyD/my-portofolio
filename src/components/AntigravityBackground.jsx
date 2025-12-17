@@ -5,7 +5,7 @@ const AntigravityBackground = () => {
     return (
         <div className="fixed inset-0 z-0 pointer-events-none">
             <Antigravity
-                count={1000}
+                count={400}
                 magnetRadius={6}
                 ringRadius={3}
                 waveSpeed={3}
